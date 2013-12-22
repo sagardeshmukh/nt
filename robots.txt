@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /sitemap.xml
+Disallow: /places
+Disallow: /coin-museum
+Disallow: /ganga-ghat
